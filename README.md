@@ -1,8 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Product Card 
 
-## Getting Started
+The product card is a component to view the details of a product for sale. It was designed to be used in web applications. In development you can go beyond what is proposed, including animations, for example.
+This challenge was created for #boracodar, a Rocketseat project with weekly challenges for you to practice developing as you see fit and evolve your code to the next level.
 
-First, run the development server:
+![Project image](https://imgur.com/tCdnvb4)
+
+## Technologies Used
+
+The project was developed using the following technologies:
+
+- Programming Language: Typescript
+- Framework: [Next.js 13.4](https://nextjs.org/)
+- Additional tools: [Tailwind CSS]
+
+## Development Environment Configuration
+
+To configure the local development environment, follow the steps below:
+
+1. Clone this repository to your local machine.
+```bash
+git clone https://github.com/arnaldoucuassapi/product-card.git
+```
+
+2. Install the required dependencies.
+```bash
+cd projeto-xyz
+npm install
+```
+
+3. Install the required dependencies.
+```bash
+cd projeto-xyz
+npm install
+```
+
+4. Run the development server:
 
 ```bash
 npm run dev
@@ -14,21 +46,32 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Make sure you have the correct versions of technologies and dependencies installed to avoid compatibility issues.
 
-## Learn More
+## How to Contribute
+If you want to contribute to the project, please follow the steps below:
 
-To learn more about Next.js, take a look at the following resources:
+1. Fork this repository and clone it to your local machine.
+```shell
+git clone https://github.com/seu-usuario/nome-do-repositorio-forkado.git
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Create a branch for your contribution.
+```shell
+git checkout -b minha-contribuicao
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Make the necessary changes and commit them.
+```shell
+git commit -m "Descrição das alterações"
+```
 
-## Deploy on Vercel
+4. Push the changes to your fork repository.
+```shell
+git push origin minha-contribuicao
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Open a pull request on this repository and wait for your contribution to be reviewed and approved.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I hope you enjoy the project and I look forward to receiving your contributions!
