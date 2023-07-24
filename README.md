@@ -11,7 +11,7 @@ The project was developed using the following technologies:
 
 - Programming Language: Typescript
 - Framework: [Next.js 13.4](https://nextjs.org/)
-- Additional tools: [Tailwind CSS]
+- Additional tools: [Tailwind CSS](https://tailwindcss.com)
 
 ## Development Environment Configuration
 
