@@ -26,7 +26,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${lato.className} ${crimson_pro.variable}`}>{children}</body>
+      <body className={`${lato.className} bg-background ${crimson_pro.variable}`}>{children}</body>
     </html>
   )
 }
