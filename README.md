@@ -10,7 +10,7 @@ This challenge was created for #boracodar, a Rocketseat project with weekly chal
 The project was developed using the following technologies:
 
 - Programming Language: Typescript
-- Framework: [Next.js 13.4](https://nextjs.org/)
+- Framework: [Next.js 13](https://nextjs.org/)
 - Additional tools: [Tailwind CSS](https://tailwindcss.com)
 
 ## Development Environment Configuration
@@ -24,24 +24,18 @@ git clone https://github.com/arnaldoucuassapi/product-card.git
 
 2. Install the required dependencies.
 ```bash
-cd projeto-xyz
+cd product-card
 npm install
 ```
 
-3. Install the required dependencies.
-```bash
-cd projeto-xyz
-npm install
-```
-
-4. Run the development server:
+3. Run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -54,7 +48,7 @@ If you want to contribute to the project, please follow the steps below:
 
 1. Fork this repository and clone it to your local machine.
 ```shell
-git clone https://github.com/seu-usuario/nome-do-repositorio-forkado.git
+git clone https://github.com/arnaldoucuassapi/product-card.git
 ```
 
 2. Create a branch for your contribution.
@@ -64,7 +58,7 @@ git checkout -b minha-contribuicao
 
 3. Make the necessary changes and commit them.
 ```shell
-git commit -m "Descrição das alterações"
+git commit -m "Description"
 ```
 
 4. Push the changes to your fork repository.
