@@ -1,7 +1,7 @@
 # Product Card 
 
 The product card is a component to view the details of a product for sale. It was designed to be used in web applications. In development you can go beyond what is proposed, including animations, for example.
-This challenge was created for #boracodar, a Rocketseat project with weekly challenges for you to practice developing as you see fit and evolve your code to the next level.
+This challenge was created for #boracodar, a Rocketseat project with weekly challenges for you to practice developing as you see fit and evolve your code to the next level. With *Responsive Layout*!
 
 ![Project image](https://i.imgur.com/tCdnvb4.png)
 
