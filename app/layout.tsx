@@ -15,7 +15,7 @@ const crimson_pro = CrimsonPro({
 })
 
 export const metadata: Metadata = {
-  title: 'Card Produto',
+  title: 'Product card',
   description: '',
 }
 

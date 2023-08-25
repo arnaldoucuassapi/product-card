@@ -11,7 +11,7 @@ export default function Home() {
   const [isRotate, setIsRotate] = useState(false)
 
   return (
-    <main className="h-screen flex justify-center items-center text-violet">
+    <main className="h-screen flex flex-wrap content-center justify-center items-center text-violet">
       <section className="flex flex-col items-end">
         <button 
           className="absolute mr-16"
@@ -45,7 +45,7 @@ export default function Home() {
         </picture>
       </section>
 
-      <section>
+      <section className="px-3">
         <span className="text-sm font-light">CÓDIGO: 42404</span>
         <h1 className="font-title text-4xl my-3">Sofá Margot II - Rosé</h1>
         <p className="text-base font-normal">R$ 4.000</p>
